@@ -5,13 +5,4 @@
         <Name>多功能DLL注入器</Name>
         <Support_Server CN="1" TW="1" KR="1" US="1">ALL</Support_Server>
     </LOL>
-    <PARAGRAPH>
-        <LINE N="1">First line.</LINE> 
-        <LINE N="2">Second line.</LINE> 
-    </PARAGRAPH>
-
-    <PARAGRAPH>
-        <LINE N="3">Third line.</LINE> 
-        <LINE N="4">Fourth line.</LINE>        
-    </PARAGRAPH>
 </VIP_software>
