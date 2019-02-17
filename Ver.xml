@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VIP_software>
-    <TITLE>Title Here</TITLE>
-    <AUTHOR>
-        <FIRSTNAME>Firstname</FIRSTNAME> 
-        <LASTNAME>Lastname</LASTNAME>
-    </AUTHOR>
+    <LOL>
+        <Mutex>Multifunctional_DLL_injector</Mutex> 
+        <Name>多功能DLL注入器</Name>
+        <Support_Server CN="1" TW="1" KR="1" US="1">ALL</Support_Server>
+    </LOL>
     <PARAGRAPH>
         <LINE N="1">First line.</LINE> 
         <LINE N="2">Second line.</LINE> 
