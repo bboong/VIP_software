@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VIP_software>
     <Multifunctional_DLL_injector>
-        <Mutex>Multifunctional_DLL_injector</Mutex> 
         <Name>多功能DLL注入器</Name>
+		<Version>20190217a</Version>
         <Support_Server CN="1" TW="1" KR="1" US="1">ALL</Support_Server>
-        <Version>20190217a</Version>
         <UpdateLog><![CDATA[友情提示：DLL路径内容 文件跟NC的DLL放一起就能选DLL了，支持同目录下的DLL完整文件名，否则只能识别官方发布的DLL名称，或填写完整的路径。
 更新说明：
 	2019年2月06日
