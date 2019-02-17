@@ -4,6 +4,6 @@
         <Name>多功能DLL注入器</Name>
 		<Version>20190217a</Version>
         <Support_Server CN="1" TW="1" KR="1" US="1">ALL</Support_Server>
-        <UpdateLog></UpdateLog>
+        <UpdateLog>https://github.com/bboong/VIP_software/raw/master/多功能DLL注入器更新日志.txt</UpdateLog>
     </Multifunctional_DLL_injector>
 </VIP_software>
