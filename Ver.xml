@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VIP_software>
-    <LOL>
+    <Multifunctional_DLL_injector>
         <Mutex>Multifunctional_DLL_injector</Mutex> 
         <Name>多功能DLL注入器</Name>
         <Support_Server CN="1" TW="1" KR="1" US="1">ALL</Support_Server>
@@ -48,5 +48,5 @@
 		首发版本，目前功能基本完善。
 		有什么建议可以联系我QQ：6203131反馈，不一定采纳。
 ]]></UpdateLog>
-    </LOL>
+    </Multifunctional_DLL_injector>
 </VIP_software>
