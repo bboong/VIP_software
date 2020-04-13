@@ -1,5 +1,7 @@
 ### VIP_software
 
+新的软件更新地址：http://t.cn/A6hLgB71
+
 运行库下载地址:https://pan.baidu.com/s/1pTYzPiK52c-igSN8uzq-Cg#ntyt
 提取码: ntyt
 
